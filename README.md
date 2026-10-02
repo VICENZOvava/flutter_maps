@@ -3,7 +3,6 @@
 Aplicativo flutter integrando o uso da api de mapas 
 
 ## Print
-
-![Print1](https://raw.githubusercontent.com/VICENZOvava/flutter_maps/refs/heads/main/assets/print.png)
+<img src='./assets/print.png' width="300">
 
 ### Vicenzo Vieira Varandas
